@@ -3,16 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+This is a personal website for Kan Chen.
+The apex domain for this website is kan-chen.com
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A few subdomains created as following:
+My facebook page:
+facebook.kan-chen.com 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My Linkedin page:
+linkedin.kan-chen.com
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+www.kan-chen.com is not used yet. It's set as a CName of kan-chen.com
+Today www.kan-chen.com will redirect to kan-chen.com
+More contensts to be delivered.
 
-
-[jekyll-organization]: https://github.com/jekyll
