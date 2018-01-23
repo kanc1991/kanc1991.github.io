@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title:  "Https and Network Security"
 date:   2018-01-21
@@ -17,7 +14,8 @@ date:   2018-01-21
     - While you are making a purchase through Amazon.com, how do you make sure your credit card info is only
     visible to Amazon? Even If it's indeed Amazon.com, how do you make sure those info are not intercepted by
     some one in the middle?
-    ![hacker.jpg]({{site.baseurl}}/_posts/hacker.jpg)
+    
+![hacker](/assets/hacker.jpg)
 
     That's why today we are mostly using https instead of http.
 
