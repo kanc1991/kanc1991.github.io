@@ -21,8 +21,6 @@ That's why today we are mostly using https instead of http.
 
 ##  What's https and how it works
 
-![hacker](/assets/hacker.jpg)
-
 That's why today we are mostly using https instead of http.
 
 ##  What's https and how it works
