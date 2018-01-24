@@ -20,10 +20,6 @@ some one in the middle?
 That's why today we are mostly using https instead of http.
 
 ##  What's https and how it works
-
-That's why today we are mostly using https instead of http.
-
-##  What's https and how it works
 Https is a secure version of HTTP built over TLS. Essentially all information exchanged between client and
 server are symmetrically encrypted with something called session key. The session key was securely exchanged
 during TLS handshake. Following is a rough summary of how TLS handshake works.
