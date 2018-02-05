@@ -29,6 +29,7 @@ Following is a list of all training data, which had 2 features (size and built y
 | 1600    | 1990        | 329900  |
 | 2400    | 2000        | 369000  |
 | 1416    | 1989        | 232000  |
+
 ...
 
 Linear regression let us model the data in a linear manner.  
